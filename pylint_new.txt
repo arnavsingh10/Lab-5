@@ -1,0 +1,8 @@
+************* Module Inventory_sytstem_new
+Inventory_sytstem_new.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+Inventory_sytstem_new.py:1:0: C0103: Module name "Inventory_sytstem_new" doesn't conform to snake_case naming style (invalid-name)
+Inventory_sytstem_new.py:32:4: W0603: Using the global statement (global-statement)
+
+------------------------------------------------------------------
+Your code has been rated at 9.39/10 (previous run: 9.39/10, +0.00)
+
